@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.movies-container {
+  background-color: #000000;
+  color: #ffffff;
+  min-height: 100vh;
+  padding-bottom: 72px;
+}
+
+.prime-video-poster-img {
+  width: 100%;
+}
+.movies-box {
+  padding: 12px 24px;
+}

@@ -1,0 +1,25 @@
+/* Write your CSS here */
+li {
+  list-style: none;
+}
+.thumbnail-img {
+  width: 300px;
+}
+.popup-container-box {
+  background-color: #ffffff;
+  color: black;
+  padding: 36px;
+  border-radius: 8px;
+}
+.close-btn-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.close-btn-container button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+.react-player-container {
+  margin: 24px 0;
+}
